@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b225a64.css",
-    "main.js": "/static/js/main.0a23a124.js",
+    "main.js": "/static/js/main.3c645cad.js",
     "static/js/453.9c091ef6.chunk.js": "/static/js/453.9c091ef6.chunk.js",
     "static/media/article-slider3.png": "/static/media/article-slider3.b4dfdcc8e6705334f146.png",
     "static/media/moscow.png": "/static/media/moscow.5334ac6fea6a4f60c49c.png",
@@ -62,11 +62,11 @@
     "static/media/bxs_chevron-right.svg": "/static/media/bxs_chevron-right.b4ebeb88288750cd89f09b27947cb160.svg",
     "static/media/vectorright.svg": "/static/media/vectorright.2bfc5422c5cae28325db57c5ec04e49d.svg",
     "main.5b225a64.css.map": "/static/css/main.5b225a64.css.map",
-    "main.0a23a124.js.map": "/static/js/main.0a23a124.js.map",
+    "main.3c645cad.js.map": "/static/js/main.3c645cad.js.map",
     "453.9c091ef6.chunk.js.map": "/static/js/453.9c091ef6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b225a64.css",
-    "static/js/main.0a23a124.js"
+    "static/js/main.3c645cad.js"
   ]
 }
